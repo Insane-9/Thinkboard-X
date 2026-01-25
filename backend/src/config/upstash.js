@@ -11,7 +11,7 @@ await redis.get("foo");
 
 const ratelimit = new Ratelimit({
   redis,
-  limiter: Ratelimit.slidingWindow(100, "60 s"),
+  limiter: Ratelimit.slidingWindow(5, "10 s"),
 });
 
 export { redis, ratelimit };
