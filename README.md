@@ -4,6 +4,11 @@
 
 **Thinkboard-X** is a full-stack note-taking application built with the **MERN stack** (MongoDB, Express, React, Node.js). This project documents a comprehensive learning journey through modern web development, from frontend styling to backend database management and deployment.
 
+## 🚀 Live Demo
+
+**Deployment Link:** [https://thinkboard-x-2.onrender.com/]
+
+
 ### Tech Stack
 
 - **Frontend**: React 19, React Router 7, Vite, Tailwind CSS, DaisyUI, Lucide React
